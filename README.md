@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @diegomontanari (Diego)
--  I’m interested in ...
-- 🖥 I’m currently a student at 42Roma Luiss
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 💫 My dream is to help people become the 10x version of themselves
+- 📚 I’m currently a student at 42Roma Luiss
+- 🏛️ I also study computer engineering at Sapienza University
+- 🧳 I’m interested in entreprenership, philosophy and personal growth
+- 🚀 Check out my projects and blog at https://diegomontanari.com
+- 🤝 I want to connect with visionaries, creatives and driven people
 
 <!---
 diegomontanari/diegomontanari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
