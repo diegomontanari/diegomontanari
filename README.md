@@ -6,6 +6,7 @@
 - 🚀 Check out my projects and blog at https://diegomontanari.com
 - 🤝 I want to connect with visionaries, creatives and driven people
 
+![Super Mario GitHub GIF](https://github.com/diegomontanari/diegomontanari/raw/main/supermariogithubsffondo.gif)
 <!---
 diegomontanari/diegomontanari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
