@@ -1,7 +1,7 @@
 ![Super Mario GitHub GIF](https://github.com/diegomontanari/diegomontanari/raw/main/supermariogithubsffondo.gif)
 
 # Welcome!
----
+
 - 👋 Hi, I’m @diegomontanari (Diego)
 - 💫 My dream is to help people become the 10x version of themselves
 - 📚 I’m currently a student at 42Roma Luiss
