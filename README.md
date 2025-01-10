@@ -6,7 +6,7 @@
 - 💫 My dream is to help people become the 10x version of themselves
 - 📚 I’m currently a student at 42Roma Luiss
 - 🏛️ I also study computer engineering at Sapienza University
-- 🧳 I’m interested in entreprenership, philosophy and personal growth
+- 🧳 I’m interested in entrepreneurship, philosophy and personal growth
 - 🚀 Check out my projects and blog at https://diegomontanari.com
 - 🤝 I want to connect with visionaries, creatives and driven people
 
